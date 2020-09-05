@@ -1,5 +1,3 @@
-# chat
-
 Chat Udemy
 
 ## Getting Started
