@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fe605a1-51f7-48cc-8c9e-618d95f69ac0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1gJbkpOWvK1vl3mouKC0NpGTZ5T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\flutter\chat\android\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\flutter\chat\android\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe605a1-51f7-48cc-8c9e-618d95f69ac0" name="Default Changelist" comment="" />
+      <created>1597835787824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597835787824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2397" y="262" key="#PSD" timestamp="1599131754639">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2397" y="262" key="#PSD/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599131754639" />
+    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599131668026">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599131668026" />
+    <state x="2660" y="285" key="FileChooserDialogImpl" timestamp="1598107061278">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="285" key="FileChooserDialogImpl/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598107061278" />
+    <state width="930" height="276" key="GridCell.Tab.0.bottom" timestamp="1599311143463">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state width="930" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599311143463" />
+    <state width="930" height="276" key="GridCell.Tab.0.center" timestamp="1599311143462">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state width="930" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599311143462" />
+    <state width="930" height="276" key="GridCell.Tab.0.left" timestamp="1599311143462">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state width="930" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599311143462" />
+    <state width="930" height="276" key="GridCell.Tab.0.right" timestamp="1599311143463">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state width="930" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599311143463" />
+    <state x="2381" y="172" key="SettingsEditor" timestamp="1597845744485">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="172" key="SettingsEditor/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1597845744485" />
+    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599309584314">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599309584314" />
+    <state x="2535" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597928521299">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2535" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1597928521299" />
+    <state x="2689" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598807784419">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2689" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598807784419" />
+    <state x="2323" y="10" width="1533" height="716" key="dock-window-1" timestamp="1598968760187">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2323" y="10" width="1533" height="716" key="dock-window-1/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598968760187" />
+    <state x="2856" y="143" width="805" height="804" key="find.popup" timestamp="1598967038531">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2856" y="143" width="805" height="804" key="find.popup/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598967038531" />
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1598736935257">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598736935257" />
+  </component>
+</project>
