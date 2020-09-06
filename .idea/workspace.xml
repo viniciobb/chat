@@ -4,7 +4,13 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fe605a1-51f7-48cc-8c9e-618d95f69ac0" name="Default Changelist" comment="" />
+    <list default="true" id="4fe605a1-51f7-48cc-8c9e-618d95f69ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/Mains - teste/Main tab controler.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,30 +77,30 @@
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2660" y="285" key="FileChooserDialogImpl/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598107061278" />
-    <state width="930" height="276" key="GridCell.Tab.0.bottom" timestamp="1599347003168">
+    <state width="646" height="276" key="GridCell.Tab.0.bottom" timestamp="1599393818230">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="930" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599347003168" />
-    <state width="930" height="276" key="GridCell.Tab.0.center" timestamp="1599347003168">
+    <state width="646" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818230" />
+    <state width="646" height="276" key="GridCell.Tab.0.center" timestamp="1599393818230">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="930" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599347003168" />
-    <state width="930" height="276" key="GridCell.Tab.0.left" timestamp="1599347003168">
+    <state width="646" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818230" />
+    <state width="646" height="276" key="GridCell.Tab.0.left" timestamp="1599393818229">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="930" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599347003167" />
-    <state width="930" height="276" key="GridCell.Tab.0.right" timestamp="1599347003168">
+    <state width="646" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818229" />
+    <state width="646" height="276" key="GridCell.Tab.0.right" timestamp="1599393818230">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="930" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599347003168" />
+    <state width="646" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818230" />
     <state x="2381" y="172" key="SettingsEditor" timestamp="1597845744485">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2381" y="172" key="SettingsEditor/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1597845744485" />
-    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599309584314">
+    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599392747015">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599309584314" />
+    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599392747015" />
     <state x="2535" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597928521299">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
