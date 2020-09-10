@@ -2,7 +2,6 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 
-
 class RandomWords extends StatefulWidget {
   @override
   _RandomWordsState createState() => _RandomWordsState();
@@ -12,6 +11,20 @@ class _RandomWordsState extends State<RandomWords> {
   final _suggestions = <WordPair>[];
   final _saved = Set<WordPair>(); // diferente de list pq n aceita registro duplicado
   final _biggerFont = TextStyle(fontSize: 18.0);
+
+  @override
+  Widget build(BuildContext context) {
+    print('*************Initializing RandonWords******************');
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Startup Name Generator'),
+        actions: [
+          IconButton(icon: Icon(Icons.list), onPressed: _pushSaved),
+        ],
+      ),
+      body: _buildSuggestions(context),
+    );
+  }
 
   void _pushSaved() {
     Navigator.of(context).push(
@@ -38,6 +51,15 @@ class _RandomWordsState extends State<RandomWords> {
               title: Text('Saved Suggestions'),
             ),
             body: ListView(children: divided),
+
+            floatingActionButton: FloatingActionButton(
+              onPressed: () {
+                  print('pressed');
+              },
+              tooltip: 'Toogle Opacity',
+              child: Icon(Icons.save),
+            ),
+
           );
         }, // ...to here.
       ),
@@ -45,7 +67,7 @@ class _RandomWordsState extends State<RandomWords> {
   }
 
 
-  Widget _buildSuggestions() {
+  Widget _buildSuggestions(BuildContext context) {
     print('_buildSuggestions');
     return ListView.builder(
         padding: EdgeInsets.all(16.0),
@@ -67,6 +89,7 @@ class _RandomWordsState extends State<RandomWords> {
   }
 
   Widget _buildRow(WordPair pair) {
+    print('_buildRow');
     final alreadySaved = _saved.contains(pair);
     return ListTile(
       title: Text(
@@ -90,18 +113,5 @@ class _RandomWordsState extends State<RandomWords> {
     );
   }
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Startup Name Generator'),
-        actions: [
-          IconButton(icon: Icon(Icons.list), onPressed: _pushSaved),
-        ],
-      ),
 
-
-      body: _buildSuggestions(),
-    );
-  }
 }

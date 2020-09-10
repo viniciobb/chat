@@ -5,11 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fe605a1-51f7-48cc-8c9e-618d95f69ac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/Mains - teste/Main tab controler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Mains - teste/Main image loading.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Mains - teste/Mian input.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/a24792a65e0cf3f2eabfc3126d331109/kernel_snapshot.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/AddUser/AddUser.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Add/AddUser.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Mains - teste/Main fading Container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Mains - teste/Main fading Container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/RandomWords/RandomWordsList.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/RandomWords/RandomWordsList.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +45,7 @@
       </list>
     </option>
   </component>
+  <component name="FlutterView" splitter-proportion="0.41025642" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -37,17 +60,18 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/AddUser" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\flutter\chat\lib\AddUser" />
       <recent name="C:\flutter\chat\android\app" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\flutter\chat\android\app" />
     </key>
   </component>
@@ -69,38 +93,42 @@
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2397" y="262" key="#PSD/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599131754639" />
-    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599131668026">
+    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599743256626">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599131668026" />
+    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599743256626" />
+    <state x="2326" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599503359645">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2326" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599503359645" />
     <state x="2660" y="285" key="FileChooserDialogImpl" timestamp="1598107061278">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2660" y="285" key="FileChooserDialogImpl/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1598107061278" />
-    <state width="646" height="276" key="GridCell.Tab.0.bottom" timestamp="1599393818230">
+    <state width="646" height="276" key="GridCell.Tab.0.bottom" timestamp="1599488384970">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="646" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818230" />
-    <state width="646" height="276" key="GridCell.Tab.0.center" timestamp="1599393818230">
+    <state width="646" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599488384970" />
+    <state width="646" height="276" key="GridCell.Tab.0.center" timestamp="1599488384968">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="646" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818230" />
-    <state width="646" height="276" key="GridCell.Tab.0.left" timestamp="1599393818229">
+    <state width="646" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599488384968" />
+    <state width="646" height="276" key="GridCell.Tab.0.left" timestamp="1599488384967">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="646" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818229" />
-    <state width="646" height="276" key="GridCell.Tab.0.right" timestamp="1599393818230">
+    <state width="646" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599488384967" />
+    <state width="646" height="276" key="GridCell.Tab.0.right" timestamp="1599488384969">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="646" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599393818230" />
+    <state width="646" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599488384969" />
     <state x="2381" y="172" key="SettingsEditor" timestamp="1597845744485">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2381" y="172" key="SettingsEditor/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1597845744485" />
-    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599392747015">
+    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599511173493">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599392747015" />
+    <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1599511173493" />
     <state x="2535" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597928521299">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
